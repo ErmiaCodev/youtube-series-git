@@ -1,0 +1,12 @@
+:root {
+    font-family: sans-serif;
+}
+
+@media screen {
+    
+}
+
+@font-face {
+    font-family: MyFont;
+    src: url();
+}
