@@ -5,6 +5,11 @@ async function main() {
 
 
 async function getPosts() {
-	return new Promise()
+	return new Promise((resolve => {
+		return 0;
+	}, (err) => {
+
+	}))
 }
 
+window.addEventListener("click", main);
