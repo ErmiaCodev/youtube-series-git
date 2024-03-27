@@ -1,3 +1,4 @@
+
 const ctrl = {
 	data() {
 		return {
@@ -16,5 +17,6 @@ async function getPosts() {
 
 	}))
 }
+
 
 window.addEventListener("click", main);
