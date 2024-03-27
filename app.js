@@ -1,6 +1,9 @@
-const ctrl = {
+asdasdas
+	a
+		sd
+			asdconst ctrl = {
 	data() {
-		return {
+		return {asdasd
 		}
 	},
 	async main() {
@@ -11,5 +14,15 @@ const ctrl = {
 
 async function getPosts() {
 	return new Promise()
+	asd
+
+	asd
+	asd
+	sadas
 }
+asdas
+das
+d
+asd
+asda
 
