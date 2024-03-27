@@ -1,8 +1,13 @@
-async function main() {
-	const posts = await getPosts()
-
+const ctrl = {
+	data() {
+		return {
+		}
+	},
+	async main() {
+		
+	}
+	
 }
-
 
 async function getPosts() {
 	return new Promise()
